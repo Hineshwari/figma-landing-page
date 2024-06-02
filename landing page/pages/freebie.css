@@ -1,0 +1,134 @@
+
+
+
+.freebie .container-2 {
+  margin: 0 8px 34.7px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 314px;
+  box-sizing: border-box;
+}
+.freebie .app-landing-page-free {
+  margin: 0 0 34.7px 14.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 71.8px;
+  letter-spacing: -2.5px;
+  line-height: 1.175;
+  color: #000000;
+}
+.freebie .super-awesome {
+  margin: 0 14.2px 9px 14.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 51.3px;
+  letter-spacing: -1.8px;
+  line-height: 1.175;
+  color: #000000;
+}
+.freebie .source-files {
+  margin: 0 14px 39px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40.6px;
+  letter-spacing: -1.4px;
+  line-height: 1.175;
+  color: rgba(0, 0, 0, 0.5);
+}
+.freebie .vector-4 {
+  margin-top: 0px;
+  width: 15.5px;
+  height: 15.5px;
+}
+.freebie .vector-3 {
+  margin-bottom: 0px;
+  width: 15.5px;
+  height: 15.5px;
+}
+.freebie .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 31px;
+  box-sizing: border-box;
+}
+.freebie .vector-5 {
+  width: 15.5px;
+  height: 15.5px;
+}
+.freebie .vector-1 {
+  border-radius: 7.8px;
+  background: #1ABCFE;
+  width: 15.5px;
+  height: 15.5px;
+}
+.freebie .container {
+  margin-bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  width: 31px;
+  box-sizing: border-box;
+}
+.freebie .vector-2 {
+  margin-right: 15.5px;
+  width: 15.5px;
+  height: 15.5px;
+}
+
+.freebie .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.freebie .desktop-31 {
+  box-shadow: 31px 43px 100px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/desktop_31.png') 50% / cover no-repeat;
+  align-items: center;
+  right: 404px;
+  left: 604px;
+  bottom: -2443px;
+  width: 814px;
+  height: 3328px;
+}
+.freebie .preview {
+  background: #F2F2F2;
+  position: relative;
+  padding: 177px 102px 231px 102px;
+  width: 1638px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.freebie .silver {
+  background: url('../assets/images/silver.png');
+  width: 533.7px;
+  height: 793px;
+}
+.freebie .iphone-13-pro-front {
+  box-shadow: 69px 69px 143.8px 0px rgba(0, 0, 0, 0.2);
+  transform: rotate(-15deg);
+  position: absolute;
+  left: 294px;
+  bottom: -576px;
+  display: flex;
+  width: 533.7px;
+  height: 793px;
+  box-sizing: border-box;
+}
+.freebie {
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 2px;
+  width: 1600px;
+  box-sizing: border-box;
+}
